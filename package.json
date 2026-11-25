@@ -1,0 +1,1 @@
+{"description":"One-sentence alien tourist one-star review of Earth that still compliments the food, for the make.fun bounty 'One Star, Five Stars for the Food'.","engines":{"node":">=22"},"license":"MIT","name":"makefun-one-star-five-stars-food-20261125","private":true,"scripts":{"start":"node --experimental-strip-types main.ts"},"type":"module","version":"1.0.0"}
